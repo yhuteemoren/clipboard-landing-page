@@ -240,10 +240,10 @@ header {
   color: rgb(76, 84, 93);
   line-height: 25px;
   font-size: 18px;
-  background-color: hsl(171, 66%, 44%);
+  background-color: hsl(171, 68%, 81%);
 }
 
 .attribute a {
-  color: whitesmoke;
+  color: hsl(233, 86%, 59%);
   text-decoration: none;
 }
